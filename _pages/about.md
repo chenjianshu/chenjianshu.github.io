@@ -28,9 +28,9 @@ For more details, see my publications (also [google scholar](https://scholar.goo
 
 Selected publications
 ======
-1. Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li and Li Deng, ``Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes'', Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017.
-1. Yu Liu&#8727, Jianshu Chen and Li Deng, ``Unsupervised Sequence Classification using Sequential Output Statistics'', Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017. (Equal contribution)
-1. Simon Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou, ``Stochastic Variance Reduction Methods for Policy Evaluation'', Proc. International Conference on Machine Learning (ICML), Sydney, Australia, August 2017.
-1. Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng, ``End-to-end Learning of Latent Dirichlet Allocation by Mirror-Descent Back Propagation'', Proc. 29th Annual Conference on Neural Information Processing Systems (NIPS 2015), Montreal, Canada, December 2015.
-1. Jianshu Chen and Ali H. Sayed. ``On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis'', IEEE Transactions on Information Theory,  Vol. 61, No. 6, June 2015, pp. 3487–3517.
-1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. ``Distributed Policy Evaluation Under Multiple Behavior Strategies'', IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260–1274.
+1. Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li and Li Deng, \"Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes\", Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017.
+1. Yu Liu\*, Jianshu Chen\* and Li Deng\*, \"Unsupervised Sequence Classification using Sequential Output Statistics\", Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017. (\*Equal contribution)
+1. Simon Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou, \"Stochastic Variance Reduction Methods for Policy Evaluation\", Proc. International Conference on Machine Learning (ICML), Sydney, Australia, August 2017.
+1. Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng, \"End-to-end Learning of Latent Dirichlet Allocation by Mirror-Descent Back Propagation\", Proc. 29th Annual Conference on Neural Information Processing Systems (NIPS 2015), Montreal, Canada, December 2015.
+1. Jianshu Chen and Ali H. Sayed. \"On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis\", IEEE Transactions on Information Theory,  Vol. 61, No. 6, June 2015, pp. 3487–3517.
+1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. \"Distributed Policy Evaluation Under Multiple Behavior Strategies\", IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260–1274.
