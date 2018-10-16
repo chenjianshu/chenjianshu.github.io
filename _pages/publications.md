@@ -22,12 +22,3 @@ Journal papers
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “On distributed online classification in the midst of concept drifts”, Neurocomputing, vol. 112, pp.139–152, July 2013.
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
