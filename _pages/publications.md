@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: "Full publication list"
 permalink: /publications/
 author_profile: true
 ---
 
-Journal papers
+# Journal papers
 ======
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Excess-Risk of Distributed Stochastic Learners”, IEEE Transactions on Information Theory, Vol. 62, No. 10, October 2016, pp. 5753–5785.
 1. Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward, “Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval”, to appear in IEEE Transactions on Audio, Speech and Language Processing, 2016. Also available as arXiv: 1502.06922.
 1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3487–3517.
 1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part II: Performance Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3518–3548.
-1. Jianshu Chen, Zaid J. Towfic, and Ali H. Sayed. “Dictionary Learning over Distributed Models”, IEEE Transactions on Signal Processing, Vol.63, No. 4, February 2015, pp. 1001–1016.[Software code] [Acknowledgement]
+1. Jianshu Chen, Zaid J. Towfic, and Ali H. Sayed. “Dictionary Learning over Distributed Models”, IEEE Transactions on Signal Processing, Vol.63, No. 4, February 2015, pp. 1001–1016.[Software code](http://iracema.icsl.ucla.edu/publications/software/ChenTowficSayed_DictionaryLearningOverDistModels.zip) [Acknowledgement](https://asl.epfl.ch/wp-content/uploads/publications/software/README.pdf)
 1. Jun Wang, Jianshu Chen, You Lu, Mario Gerla, and Danijela Cabric. “Robust Power Control under Location and Channel Uncertainty in Cognitive Radio Networks”, IEEE Wireless Communication Letters, Vol.4, No. 2, April 2015, pp. 113–116.
 1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. “Distributed Policy Evaluation Under Multiple Behavior Strategies”, IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260 – 1274.
 1. Yue Zhao, Jianshu Chen, Andrea Goldsmith, H. Vincent Poor, “Identification of Out- ages in Power Systems with Uncertain States and Optimal Sensor Locations”, IEEE Journal of Selected Topics in Signal Processing, Vol.8, No.6, December, 2014, pp. 1140–1153.
@@ -22,3 +22,43 @@ Journal papers
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “On distributed online classification in the midst of concept drifts”, Neurocomputing, vol. 112, pp.139–152, July 2013.
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
+# Conference papers
+======
+1. Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song, “Coupled Variational Bayes via Optimization Embedding”, Proc. Neural Information Processing (NIPS), Montreal, Canada, December 2018.
+1. Yelong Shen\*, Jianshu Chen\*, Po-Sen Huang\*, Yuqing Guo, Jianfeng Gao, “M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search”, Proc. Neural Information Processing (NIPS), Montreal, Canada, December 2018 (\*Equal contribution).
+1. Wenhu Chen, Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Yang Wang, “XL-NBT: A Cross-lingual Neural Belief Tracking Framework”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP),  Brussels, Belgium, November 2018.
+1. Bo Dai, Albert Shaw, Lihong Li, Lin Xiao, Niao He, Zhen Liu, Jianshu Chen, Le Song, “SBEED Learning: Convergent Control with Nonlinear Function Approximation”, Proc. International Conference on Machine Learning (ICML), Stockholm, Sweden, July 2018.
+1. Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li and Li Deng, “Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes”, Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017.
+1. Yu Liu\*, Jianshu Chen\* and Li Deng\*, “Unsupervised Sequence Classification using Sequential Output Statistics”, Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017. (\*Equal contribution)
+1. Simon Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou, “Stochastic Variance Reduction Methods for Policy Evaluation”, Proc. International Conference on Machine Learning (ICML), Sydney, Australia, August 2017.
+1. Zhe Gan, P. D. Singh, Ameet Joshi, Xiaodong He, Jianshu Chen, Jianfeng Gao, and Li Deng, “Character-Level Deep Conflation For Business Data Analytics”, Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP), New Orlean, LA, March 2017.
+1. Omid Alipourfard, Hongqiang Harry Liu, Jianshu Chen, Shivaram Venkataraman, Minlan Yu, Ming Zhang, “CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics”, Proc. of USENIX NSDI. Boston, MA, March 2017.
+1. Ji He, Mari Ostendorf, Xiaodong He, Jianshu Chen, Jianfeng Gao, Lihong Li and Li Deng, “Deep Reinforcement Learning with a Combinatorial Action Space for Predicting Popular Reddit Threads”, Conference on Empirical Methods in Natural Language Processing (EMNLP), Austin, TX, November, 2016.
+1. Yue Zhao, Jianshu Chen and H. Vincent Poor, “Efficient Neural Network Architecture for Topology Identification in Smart Grid”, IEEE Global Conference on Signal and Informaiton Processing (GlobalSIP), Washington, DC, December 2016.
+1. Yue Zhao, Jianshu Chen and H. Vincent Poor, “Learning to Infer: A New Variational Inference Approach For Power Grid Topology Identification”, IEEE Workshop on Statistical Signal Processing (SSP), Palma de Mallorca, Spain, June 2016.
+1. Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, Mari Ostendorf, “Deep Reinforcement Learning with an Action Space Defined by Natural Language”, Proc. Association for Computational Linguistics (ACL 2016), Berlin, Germany, August, 2016.
+1. Jianshu Chen, Ji He, Xiaodong He, Lin Xiao, Jianfeng Gao, and Li Deng, “Interpreting the Prediction Process of a Deep Network Constructed from Supervised Topic Models”, Proc. IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP 2016), Shanghai, China, March, 2016.
+1. Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng, “End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture”, Proc. 29th Annual Conference on Neural Information Processing Systems (NIPS), Montreal, Canada, Dec. 2015.[Poster][pdf][Code]
+1. Jianshu Chen, Yue Zhao, Andrea Goldsmith, H. Vincent Poor, “Line Outage Detection in Power Transmission Networks via Message Passing Algorithms”, Proc. 48th Asilomar Conference on Signals, Systems and Computers (Asilomar 2014), Pacific Grove, CA, Nov. 2014.
+1. Yue Zhao, Jianshu Chen, Andrea Goldsmith, H. Vincent Poor, “ Dynamic Joint Outage Identification and State Estimation in Power Systems”, Proc. 48th Asilomar Conference on Signals, Systems and Computers (Asilomar 2014), Pacific Grove, CA, Nov. 2014.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed, “Dictionary Learning over Large Distributed Models via Dual-ADMM Strategies”, IEEE Machine Learning for Signal Processing Workshop (MLSP 2014), Reims, France, September, 2014.
+1. Jianshu Chen, Zaid Towfic, and Ali H. Sayed. “Online Dictionary Learning over Distributed Models”, International Conference on Acoustic, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
+1. Li Deng, and Jianshu Chen. “Sequence Classification using the High-Level Features Extracted from Deep Neural Networks”, International Conference on Acoustic, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
+1. Jianshu Chen, and Li Deng. “A Primal-Dual Method for Training Recurrent Neural Networks Constrained by the Echo-State Property”, Workshop of International Conference on Learning Representations (ICLR 2014), Banff, Canada, April, 2014.
+1. Jianshu Chen, and Ali H. Sayed. “On the probability distribution of distributed optimization strategies”, IEEE Global Conference on Signal and Informaiton Processing (GlobalSIP 2013), Austin, TX, pp.1–4 December 2013.
+1. Jianshu Chen, Yue Zhao, Andrea Goldsmith, and H. Vincent Poor, “Optimal joint detection and estimation in linear models”, IEEE Conference on Decision and Control (CDC 2013), Florence, Italy, December 2013.
+1. Jianshu Chen and Ali H. Sayed. “On the Benefits of Diffusion Cooperation for Distributed Optimization and Learning”, European Signal Processing Conference (EUSIPCO 2013), Marrakech, Morrocco, pp. 1–5, September 2013.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Distributed Inference over Regression and Classification Models”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2013), Vancouver, Canada, pp. 5406–5410, May 2013.
+1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. “Cooperative Off-Policy Prediction of Markov Decision Processes in Adaptive Networks”, submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2013), Vancouver, Canada, pp. 4539–4543 May 2013.
+1. Ali H. Sayed, Sheng-Yuan Tu, and Jianshu Chen. “Online Learning and Adaptation over Networks: More Information is Not Necessarily Better”, Proc. Information Theory and Applications (ITA), San Diego, CA, pp. 1–8, Februrary 2013.
+1. Jianshu Chen, Ali H. Sayed. “On the Limit Behavior of Distributed Optimization Strategies,” Proc. 50th Annual Alloerton Conference on Communication, Control, and Computing, Monticello, IL, pp. 1535–1542, October 2012.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “On the Generalization Ability of Distributed Online Learners,” Proc. IEEE Machine Learning for Signal Processing Workshop (MLSP 2012), Santander, Spain, pp. 1–6, September 2012.
+1. Jianshu Chen, Ali H. Sayed. “Distributed Pareto-Optimal Solutions Via Diffusion Adaptation,” Proc. IEEE Statistical Signal Processing Workshop (SSP 2012), Ann Arbor, MI, pp. 648–651, August 2012.
+1. Xiaochuan Zhao, Jianshu Chen, and Ali H. Sayed. “Beam Coordination via Diffusion Adaptation over Array Networks,” Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2012), Cesme, Turkey, pp. 105–109, June 2012.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Distributed Learning via Diffu- sion Adaptation with Application to Ensemble Learning,” Proc. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2012), Bruges, Belgium, pp. 245–250, April 2012.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Distributed Throughput Optimization over P2P Mesh Networks using Diffusion Adaptation,” Proc. IEEE International Conference on Communications (ICC 2012), Ottawa, Canada, pp. 648-652, June 2012.
+1. Jianshu Chen, Ali H. Sayed. “Performance of Diffusion Adaptation for Collaborative Optimization,” Proc. International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012), Kyoto, Japan, pp. 3753–3756, March 2012.
+1. Jianshu Chen, Sheng-Yuan Tu and Ali H. Sayed. “Distributed optimization via diffusion adaptation,” Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP 2011), San Juan, Puerto Rico, pp. 281– 284, December 2011.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Collaborative Learning Of Mix- ture Models Using Diffusion Adaptation,” Proc. IEEE Machine Learning for Signal Processing Workshop (MLSP 2011), Beijing, China, pp. 1–6, September 2011.
+1. Jianshu Chen, Ali H. Sayed. “Bio-inspired cooperative optimization with application to bacteria motility,” Proc. International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech, pp. 5788–5791, May 2011.
+1. Jianshu Chen, Xiaochuan Zhao, Ali H. Sayed. “Bacterial motility via diffusion adaptation,” Proc. 44th Asilomar Conference on Signals, Systems and Computers (Asilomar 2010), Pacific Grove, CA, pp. 1930–1934, Nov. 2010.
