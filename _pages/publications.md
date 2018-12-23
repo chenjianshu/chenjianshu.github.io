@@ -22,9 +22,10 @@ author_profile: true
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
 ## Conference papers ##
-1. Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song, “Coupled Variational Bayes via Optimization Embedding”, Proc. Neural Information Processing (NIPS), Montreal, Canada, December 2018.
-1. Yelong Shen\*, Jianshu Chen\*, Po-Sen Huang\*, Yuqing Guo, Jianfeng Gao, “M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search”, Proc. Neural Information Processing (NIPS), Montreal, Canada, December 2018 (\*Equal contribution).
-1. Wenhu Chen, Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Yang Wang, “XL-NBT: A Cross-lingual Neural Belief Tracking Framework”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP),  Brussels, Belgium, November 2018.
+1. Chih-Kuan Yeh, Jianshu Chen, Chengzhu Yu, Dong Yu, “Unsupervised Speech Recognition via Segmental Empirical Output Distribution Matching”, Proc. International Conference on Learning Representations (ICLR), New Orlean, LA, May, 2019.
+1. Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song, “Coupled Variational Bayes via Optimization Embedding”, Proc. Neural Information Processing (NeurIPS), Montreal, Canada, December 2018.
+1. Yelong Shen\*, Jianshu Chen\*, Po-Sen Huang\*, Yuqing Guo, Jianfeng Gao, “M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search”, Proc. Neural Information Processing (NeurIPS), Montreal, Canada, December 2018 (\*Equal contribution).
+1. Wenhu Chen, Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Yang Wang, “XL-NBT: A Cross-lingual Neural Belief Tracking Framework”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, November 2018.
 1. Bo Dai, Albert Shaw, Lihong Li, Lin Xiao, Niao He, Zhen Liu, Jianshu Chen, Le Song, “SBEED Learning: Convergent Control with Nonlinear Function Approximation”, Proc. International Conference on Machine Learning (ICML), Stockholm, Sweden, July 2018.
 1. Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li and Li Deng, “Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes”, Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017.
 1. Yu Liu\*, Jianshu Chen\* and Li Deng\*, “Unsupervised Sequence Classification using Sequential Output Statistics”, Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017. (\*Equal contribution)
