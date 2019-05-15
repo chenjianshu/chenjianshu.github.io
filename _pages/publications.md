@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal papers ##
+1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, Claire Cardie. 2019. “DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension”, to appear in Transactions of the Association for Computational Linguistics (TACL), 2019.
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Excess-Risk of Distributed Stochastic Learners”, IEEE Transactions on Information Theory, Vol. 62, No. 10, October 2016, pp. 5753–5785.
 1. Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward, “Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval”, to appear in IEEE Transactions on Audio, Speech and Language Processing, 2016. Also available as arXiv: 1502.06922. (**2018 IEEE Signal Processing Society Best Paper Award**)
 1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3487–3517.
@@ -22,6 +23,7 @@ author_profile: true
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
 ## Conference papers ##
+1. Wenhu Chen, Jianshu Chen, Pengda Qin, Xifeng Yan and William Yang Wang, “Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention”, Proc. Association for Computational Linguistics (ACL 2019), Florence, Italy, July 2019.
 1. Chih-Kuan Yeh, Jianshu Chen, Chengzhu Yu, Dong Yu, “Unsupervised Speech Recognition via Segmental Empirical Output Distribution Matching”, Proc. International Conference on Learning Representations (ICLR), New Orlean, LA, May 2019.
 1. Bo Dai, Hanjun Dai, Niao He, Weiyang Liu, Zhen Liu, Jianshu Chen, Lin Xiao, Le Song, “Coupled Variational Bayes via Optimization Embedding”, Proc. Neural Information Processing (NeurIPS), Montreal, Canada, December 2018.
 1. Yelong Shen\*, Jianshu Chen\*, Po-Sen Huang\*, Yuqing Guo, Jianfeng Gao, “M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search”, Proc. Neural Information Processing (NeurIPS), Montreal, Canada, December 2018 (\*Equal contribution).
