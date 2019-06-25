@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Journal papers ##
-1. Yue Zhao, Jianshu Chen, H. Vincent Poor, “A Learning-to-Infer Method for Real-Time Power Grid Multi-Line Outage Identification”, to appear in IEEE Transactions on Smart Grid, 2019.
-1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, Claire Cardie. 2019. “DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension”, to appear in Transactions of the Association for Computational Linguistics (TACL), 2019.
+1. Yue Zhao, Jianshu Chen, and H. Vincent Poor, “A Learning-to-Infer Method for Real-Time Power Grid Multi-Line Outage Identification”, to appear in IEEE Transactions on Smart Grid, 2019.
+1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, and Claire Cardie, “DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension”, to appear in Transactions of the Association for Computational Linguistics (TACL), 2019.
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Excess-Risk of Distributed Stochastic Learners”, IEEE Transactions on Information Theory, Vol. 62, No. 10, October 2016, pp. 5753–5785.
 1. Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward, “Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval”, to appear in IEEE Transactions on Audio, Speech and Language Processing, 2016. Also available as arXiv: 1502.06922. (**2018 IEEE Signal Processing Society Best Paper Award**)
 1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3487–3517.
