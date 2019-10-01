@@ -67,7 +67,7 @@ author_profile: true
 1. Jianshu Chen, Xiaochuan Zhao, Ali H. Sayed. “Bacterial motility via diffusion adaptation,” Proc. 44th Asilomar Conference on Signals, Systems and Computers (Asilomar 2010), Pacific Grove, CA, pp. 1930–1934, Nov. 2010.
 
 ## Workshop papers ##
-1. Shiyang Li, Jianshu Chen, and Dian Yu. “[Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach](http://arxiv.org/abs/1909.09743)”, NeurIPS Workshop on Knowledge Representation and Reasoning Meets Machine Learning, Vancouver, Canada, December, 2019.
-1. Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Yang Wang. “TabFact: A Large-scale Dataset for Table-based Fact Verification”, NeurIPS Workshop on Knowledge Representation and Reasoning Meets Machine Learning, Vancouver, Canada, December, 2019.
+1. Shiyang Li, Jianshu Chen, and Dian Yu. “[Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach](http://arxiv.org/abs/1909.09743)”, NeurIPS-KR2ML Workshop (Knowledge Representation and Reasoning Meets Machine Learning), Vancouver, Canada, December, 2019.
+1. Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Yang Wang. “TabFact: A Large-scale Dataset for Table-based Fact Verification”, NeurIPS-KR2ML Workshop (Knowledge Representation and Reasoning Meets Machine Learning), Vancouver, Canada, December, 2019.
 1. Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, and Mari Ostendorf. “Deep Reinforcement Learning with an Action Space Defined by Natural Language”, ICLR Workshop, San Juan, Puerto Rico, May, 2016.
 1. Jianshu Chen, and Li Deng. “A Primal-Dual Method for Training Recurrent Neural Networks Constrained by the Echo-State Property”, ICLR Workshop, Banff, Canada, April, 2014.
