@@ -48,7 +48,6 @@ author_profile: true
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed, “Dictionary Learning over Large Distributed Models via Dual-ADMM Strategies”, IEEE Machine Learning for Signal Processing Workshop (MLSP 2014), Reims, France, September, 2014.
 1. Jianshu Chen, Zaid Towfic, and Ali H. Sayed. “Online Dictionary Learning over Distributed Models”, International Conference on Acoustic, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
 1. Li Deng, and Jianshu Chen. “Sequence Classification using the High-Level Features Extracted from Deep Neural Networks”, International Conference on Acoustic, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
-1. Jianshu Chen, and Li Deng. “A Primal-Dual Method for Training Recurrent Neural Networks Constrained by the Echo-State Property”, Workshop of International Conference on Learning Representations (ICLR 2014), Banff, Canada, April, 2014.
 1. Jianshu Chen, and Ali H. Sayed. “On the probability distribution of distributed optimization strategies”, IEEE Global Conference on Signal and Informaiton Processing (GlobalSIP 2013), Austin, TX, pp.1–4 December 2013.
 1. Jianshu Chen, Yue Zhao, Andrea Goldsmith, and H. Vincent Poor, “Optimal joint detection and estimation in linear models”, IEEE Conference on Decision and Control (CDC 2013), Florence, Italy, December 2013.
 1. Jianshu Chen and Ali H. Sayed. “On the Benefits of Diffusion Cooperation for Distributed Optimization and Learning”, European Signal Processing Conference (EUSIPCO 2013), Marrakech, Morrocco, pp. 1–5, September 2013.
@@ -66,3 +65,9 @@ author_profile: true
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Collaborative Learning Of Mix- ture Models Using Diffusion Adaptation,” Proc. IEEE Machine Learning for Signal Processing Workshop (MLSP 2011), Beijing, China, pp. 1–6, September 2011.
 1. Jianshu Chen, Ali H. Sayed. “Bio-inspired cooperative optimization with application to bacteria motility,” Proc. International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech, pp. 5788–5791, May 2011.
 1. Jianshu Chen, Xiaochuan Zhao, Ali H. Sayed. “Bacterial motility via diffusion adaptation,” Proc. 44th Asilomar Conference on Signals, Systems and Computers (Asilomar 2010), Pacific Grove, CA, pp. 1930–1934, Nov. 2010.
+
+## Workshop papers ##
+1. Shiyang Li, Jianshu Chen, and Dian Yu. “Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach(http://arxiv.org/abs/1909.09743)”, NeurIPS Workshop on Knowledge Representation and Reasoning Meets Machine Learning, Vancouver, Canada, December, 2019.
+1. Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Yang Wang. “TabFact: A Large-scale Dataset for Table-based Fact Verification”, NeurIPS Workshop on Knowledge Representation and Reasoning Meets Machine Learning, Vancouver, Canada, December, 2019.
+1. Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, and Mari Ostendorf. “Deep Reinforcement Learning with an Action Space Defined by Natural Language”, ICLR Workshop, San Juan, Puerto Rico, May, 2016.
+1. Jianshu Chen, and Li Deng. “A Primal-Dual Method for Training Recurrent Neural Networks Constrained by the Echo-State Property”, ICLR Workshop, Banff, Canada, April, 2014.
