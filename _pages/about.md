@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a principal researcher at [Tencent AI Lab](https://ai.tencent.com/ailab/index.html), working on machine learning and natural language processing. Before joining Tencent in March 2018, I worked in the Deep Learning Technology Center (DLTC) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/), Redmond, WA. I completed my PhD in Electrical Engineering at [University of California, Los Angeles](http://www.ucla.edu/) (UCLA), in June 2014, where I worked in Adaptive Systems Laboratory (ASL), supervised by Prof. Ali H. Sayed. Before that, I obtained my Master’s degree and Bachelor’s degree in Electronic Engineering at Tsinghua University in 2009 and Harbin Institute of Technology in 2005, respectively.
+I am currently a principal researcher at [Tencent AI Lab](https://ai.tencent.com/ailab/index.html), working on machine learning and natural language processing. Before joining Tencent in March 2018, I worked in the Deep Learning Technology Center (DLTC) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/), Redmond, WA. I completed my PhD in Electrical Engineering at [University of California, Los Angeles](http://www.ucla.edu/) (UCLA), in June 2014, where I worked in Adaptive Systems Laboratory (ASL), supervised by Prof. Ali H. Sayed.
 
 
 Contact information
