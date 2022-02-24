@@ -24,6 +24,9 @@ author_profile: true
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
 ## Conference papers ##
+1. Xiang Yue, Xiaoman Pan, Wenlin Yao, Dian Yu, Dong Yu, Jianshu Chen, “C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References”, Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+1. Chao Zhao, Wenlin Yao, Dian Yu, Kaiqiang Song, Dong Yu, Jianshu Chen, “Learning-by-Narrating: Narrative Pre-training for Zero-Shot Dialogue Comprehension”, Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
+1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Claire Cardie, “Improving Multiple-Choice Machine Reading Comprehension with Contextualized Knowledge from Scripts”, Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
 1. Wenlin Yao, Xiaoman Pan, Lifeng Jin, Jianshu Chen, Dian Yu and Dong Yu, “Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), November 2021.
 1. Yiwu Zhong, Liwei Wang, Jianshu Chen, Dong Yu, and Yin Li, “Comprehensive Image Captioning via Scene Graph Decomposition”, Proc. European Conference on Computer Vision (ECCV), August 2020.
 1. Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen, and William Yang Wang, “Logical Natural Language Generation from Open-Domain Tables”, Proc. the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020), Seattle, WA, July 2020.
