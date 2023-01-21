@@ -24,6 +24,9 @@ author_profile: true
 1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
 ## Conference papers ##
+1. Jianshu Chen, “Learning Language Representations with Logical Inductive Bias”, Proc. International Conference on Learning Representations (ICLR), Kigali, Rwanda, May 2023.
+1. Xiaoman Pan, Wenlin Yao, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen, “Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models”, Proc. International Conference on Learning Representations (ICLR), Kigali, Rwanda, May 2023 (**Spotlight**).
+1. Yulai Zhao, Jianshu Chen, Simon S. Du, “Blessing of Class Diversity in Pre-training”, Proc. Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 2023.
 1. Yue Yang, Wenlin Yao, Hongming Zhang, Xiaoyang Wang, Dong Yu, Jianshu Chen, “Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), Abu Dhabi, UAE, December 2022.
 1. Xiang Yue, Xiaoman Pan, Wenlin Yao, Dian Yu, Dong Yu, Jianshu Chen, “C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References”, Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.
 1. Chao Zhao, Wenlin Yao, Dian Yu, Kaiqiang Song, Dong Yu, Jianshu Chen, “Learning-by-Narrating: Narrative Pre-training for Zero-Shot Dialogue Comprehension”, Proc. 60th Annual Meeting of the Association for Computational Linguistics (ACL), May 2022.

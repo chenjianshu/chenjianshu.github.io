@@ -28,9 +28,8 @@ For more details, see my publications (also [google scholar](https://scholar.goo
 
 Selected publications
 ======
-1. Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, and Ji Liu, “Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search”, Proc. International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020.
-1. Adithya M. Devraj and Jianshu Chen, “Stochastic Variance Reduced Primal Dual Algorithms for Empirical Composition Optimization”, Proc. Advances in Neural Information Processing Systems (NeurIPS), Vancouver, Canada, December 2019.
-1. Yu Liu\*, Jianshu Chen\* and Li Deng\*, \"Unsupervised Sequence Classification using Sequential Output Statistics\", Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), Long Beach, CA, Dec. 2017. (\*Equal contribution)
-1. Simon Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou, \"Stochastic Variance Reduction Methods for Policy Evaluation\", Proc. International Conference on Machine Learning (ICML), Sydney, Australia, August 2017.
-1. Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng, \"End-to-end Learning of Latent Dirichlet Allocation by Mirror-Descent Back Propagation\", Proc. 29th Annual Conference on Neural Information Processing Systems (NIPS 2015), Montreal, Canada, December 2015.
-1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. \"Distributed Policy Evaluation Under Multiple Behavior Strategies\", IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260–1274.
+1. Jianshu Chen, “Learning Language Representations with Logical Inductive Bias”, Proc. International Conference on Learning Representations (ICLR), 2023.
+1. Xiaoman Pan, Wenlin Yao, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen, “Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models”, Proc. International Conference on Learning Representations (ICLR), 2023.
+1. Adithya M. Devraj and Jianshu Chen, “Stochastic Variance Reduced Primal Dual Algorithms for Empirical Composition Optimization”, Proc. Advances in Neural Information Processing Systems (NeurIPS), 2019.
+1. Yu Liu\*, Jianshu Chen\* and Li Deng\*, \"Unsupervised Sequence Classification using Sequential Output Statistics\", Proc. 31st Annual Conference on Neural Information Processing Systems (NIPS), 2017. (\*Equal contribution)
+1. Simon Du, Jianshu Chen, Lihong Li, Lin Xiao, Dengyong Zhou, \"Stochastic Variance Reduction Methods for Policy Evaluation\", Proc. International Conference on Machine Learning (ICML), August 2017.
