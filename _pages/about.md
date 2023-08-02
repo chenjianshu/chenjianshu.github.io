@@ -13,18 +13,19 @@ I am currently a principal researcher at [Tencent AI Lab](https://ai.tencent.com
 
 Contact information
 ======
-Email: chenjianshu at gmail dot com OR jianshuchen at tencent dot com
+Email: chenjianshu at gmail dot com OR jianshuchen at global dot tencent dot com
 
 
 Research interests
 ======
-My research interests lie at the intersection of machine learning, natural language processing, and large language models. I focus on the synergy between explicit knowledge and logical inductive biases to develop next-generation large language model architectures. I am passionate about tackling large-scale AI research projects, collaborating with interdisciplinary teams to address complex challenges, and pursuing robust and effective innovations in AI. Additionally, I am also interested in reinforcement learning and optimization.
+My research interests lie at the intersection of machine learning, natural language processing, and large language models. I focus on understanding and optimizing the synergy between knowledge and reasoning to develop next-generation large language model architectures and effective learning paradigms, with the objective of achieving strong compositional generalization and reasoning capabilities. I am passionate about tackling large-scale AI research projects, collaborating with interdisciplinary teams to address complex challenges, and driving robust and effective innovations in AI. Additionally, I maintain an active interest in reinforcement learning and optimization.
 
 For more details, see my publications (also [google scholar](https://scholar.google.com/citations?user=jQeFWdoAAAAJ&hl=en))
 
 
 Selected publications
 ======
+1. Jiaao Chen, Xiaoman Pan, Kaiqiang Song, Dian Yu, Dong Yu, **Jianshu Chen**, “Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models”, arXiv preprint [arXiv:2308.00304], August 2023.
 1. **Jianshu Chen**, “Learning Language Representations with Logical Inductive Bias”, Proc. International Conference on Learning Representations (ICLR), 2023.
 1. X. Pan, W. Yao, H. Zhang, D. Yu, D. Yu, **Jianshu Chen**, “Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models”, Proc. International Conference on Learning Representations (ICLR), 2023 (**Spotlight**).
 1. Y. Yang, W. Yao, H. Zhang, X. Wang, D. Yu, **Jianshu Chen**, “Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.

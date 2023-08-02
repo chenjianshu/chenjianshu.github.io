@@ -5,25 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal papers ##
-1. Yue Zhao, Jianshu Chen, and H. Vincent Poor, “A Learning-to-Infer Method for Real-Time Power Grid Multi-Line Outage Identification”, IEEE Transactions on Smart Grid, Vol. 11, No. 1, January 2020, pp. 555-564.
-1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, and Claire Cardie, “DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension”, Transactions of the Association for Computational Linguistics (TACL), Vol. 7, March 2019, pp. 217-231.
-1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Excess-Risk of Distributed Stochastic Learners”, IEEE Transactions on Information Theory, Vol. 62, No. 10, October 2016, pp. 5753–5785.
-1. Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward, “Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval”, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.24, No. 4, April 2016, pp. 694-707. (**2018 IEEE Signal Processing Society Best Paper Award**)
-1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3487–3517.
-1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part II: Performance Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3518–3548.
-1. Jianshu Chen, Zaid J. Towfic, and Ali H. Sayed. “Dictionary Learning over Distributed Models”, IEEE Transactions on Signal Processing, Vol.63, No. 4, February 2015, pp. 1001–1016.\[[Software code](http://iracema.icsl.ucla.edu/publications/software/ChenTowficSayed_DictionaryLearningOverDistModels.zip)\] \[[Acknowledgement](https://asl.epfl.ch/wp-content/uploads/publications/software/README.pdf)\]
-1. Jun Wang, Jianshu Chen, You Lu, Mario Gerla, and Danijela Cabric. “Robust Power Control under Location and Channel Uncertainty in Cognitive Radio Networks”, IEEE Wireless Communication Letters, Vol.4, No. 2, April 2015, pp. 113–116.
-1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. “Distributed Policy Evaluation Under Multiple Behavior Strategies”, IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260 – 1274.
-1. Yue Zhao, Jianshu Chen, Andrea Goldsmith, H. Vincent Poor, “Identification of Out- ages in Power Systems with Uncertain States and Optimal Sensor Locations”, IEEE Journal of Selected Topics in Signal Processing, Vol.8, No.6, December, 2014, pp. 1140–1153.
-1. Jun Wang, Jianshu Chen, and Danijela Cabric. “Stansfield Localization Algorithm: Theoretical Analysis and Distributed Implementation”, IEEE Wireless Communications Letters, Vol. 2, No. 3, June 2013, pp. 327–330.
-1. Jianshu Chen and Ali H. Sayed.“Distributed Pareto Optimization via Diffusion Strategies”, IEEE Journal of Selected Topics in Signal Processing, Vol. 7, No. 2, April 2013, pp. 205-220.
-1. Ali H. Sayed, Sheng-Yuan Tu, Jianshu Chen, Xiaochuan Zhao, and Zaid J. Towfic, “Diffusion Strategies for Adaptation and Learning over Networks”, IEEE Signal Processing Magazine, Vol. 30, May 2013, pp. 155-171.
-1. Jun Wang, Jianshu Chen, Danijela Cabric,“Cramer-Rao Bounds for Joint RSS/DoA- Based Primary-User Localization in Cognitive Radio Networks”, IEEE Transactions on Wireless Communications, Vol. 12, No. 3, March 2013, pp.1363-1375.
-1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “On distributed online classification in the midst of concept drifts”, Neurocomputing, vol. 112, pp.139–152, July 2013.
-1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
-
 ## Conference papers ##
+
+1. Jiaao Chen, Xiaoman Pan, Kaiqiang Song, Dian Yu, Dong Yu, Jianshu Chen, “Skills-in-Context Prompting:  Unlocking Compositionality in Large Language Models”, , arXiv preprint [arXiv:2308.00304], August 2023.
+1. Neeraj Varshney, Wenlin Yao, Hongming Zhang, Jianshu Chen, Dong Yu, “A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation”, arXiv preprint  [arXiv:2307.03987], July 2023.
+1. Keming Lu, Xiaoman Pan, Kaiqiang Song, Hongming Zhang, Dong Yu, Jianshu Chen, “PIVOINE: Instruction Tuning for Open-world Information Extraction”, arXiv preprint [arXiv:2305.14898], May 2023.
+1. Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, Heng Ji, “Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks”, Findings of Annual Meeting of the Association for Computational Linguistics (ACL), July 2023.
 1. Jianshu Chen, “Learning Language Representations with Logical Inductive Bias”, Proc. International Conference on Learning Representations (ICLR), Kigali, Rwanda, May 2023.
 1. Xiaoman Pan, Wenlin Yao, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen, “Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models”, Proc. International Conference on Learning Representations (ICLR), Kigali, Rwanda, May 2023 (**Spotlight**).
 1. Yulai Zhao, Jianshu Chen, Simon S. Du, “Blessing of Class Diversity in Pre-training”, Proc. Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 2023.
@@ -79,6 +66,24 @@ author_profile: true
 1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Collaborative Learning Of Mix- ture Models Using Diffusion Adaptation,” Proc. IEEE Machine Learning for Signal Processing Workshop (MLSP 2011), Beijing, China, pp. 1–6, September 2011.
 1. Jianshu Chen, Ali H. Sayed. “Bio-inspired cooperative optimization with application to bacteria motility,” Proc. International Conference on Acoustics, Speech and Signal Processing (ICASSP 2011), Prague, Czech, pp. 5788–5791, May 2011.
 1. Jianshu Chen, Xiaochuan Zhao, Ali H. Sayed. “Bacterial motility via diffusion adaptation,” Proc. 44th Asilomar Conference on Signals, Systems and Computers (Asilomar 2010), Pacific Grove, CA, pp. 1930–1934, Nov. 2010.
+
+## Journal papers ##
+1. Yue Zhao, Jianshu Chen, and H. Vincent Poor, “A Learning-to-Infer Method for Real-Time Power Grid Multi-Line Outage Identification”, IEEE Transactions on Smart Grid, Vol. 11, No. 1, January 2020, pp. 555-564.
+1. Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, and Claire Cardie, “DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension”, Transactions of the Association for Computational Linguistics (TACL), Vol. 7, March 2019, pp. 217-231.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “Excess-Risk of Distributed Stochastic Learners”, IEEE Transactions on Information Theory, Vol. 62, No. 10, October 2016, pp. 5753–5785.
+1. Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward, “Deep Sentence Embedding Using Long Short-Term Memory Networks: Analysis and Application to Information Retrieval”, IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol.24, No. 4, April 2016, pp. 694-707. (**2018 IEEE Signal Processing Society Best Paper Award**)
+1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part I: Transient Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3487–3517.
+1. Jianshu Chen and Ali H. Sayed. “On the Learning Behavior of Adaptive Networks — Part II: Performance Analysis”, IEEE Transactions on Information Theory, Vol. 61, No. 6, June 2015, pp. 3518–3548.
+1. Jianshu Chen, Zaid J. Towfic, and Ali H. Sayed. “Dictionary Learning over Distributed Models”, IEEE Transactions on Signal Processing, Vol.63, No. 4, February 2015, pp. 1001–1016.\[[Software code](http://iracema.icsl.ucla.edu/publications/software/ChenTowficSayed_DictionaryLearningOverDistModels.zip)\] \[[Acknowledgement](https://asl.epfl.ch/wp-content/uploads/publications/software/README.pdf)\]
+1. Jun Wang, Jianshu Chen, You Lu, Mario Gerla, and Danijela Cabric. “Robust Power Control under Location and Channel Uncertainty in Cognitive Radio Networks”, IEEE Wireless Communication Letters, Vol.4, No. 2, April 2015, pp. 113–116.
+1. Sergio V. Macua, Jianshu Chen, Santiago Zazo, and Ali H. Sayed. “Distributed Policy Evaluation Under Multiple Behavior Strategies”, IEEE Transactions on Automatic Control, Vol. 60, No. 5, May 2015, pp. 1260 – 1274.
+1. Yue Zhao, Jianshu Chen, Andrea Goldsmith, H. Vincent Poor, “Identification of Out- ages in Power Systems with Uncertain States and Optimal Sensor Locations”, IEEE Journal of Selected Topics in Signal Processing, Vol.8, No.6, December, 2014, pp. 1140–1153.
+1. Jun Wang, Jianshu Chen, and Danijela Cabric. “Stansfield Localization Algorithm: Theoretical Analysis and Distributed Implementation”, IEEE Wireless Communications Letters, Vol. 2, No. 3, June 2013, pp. 327–330.
+1. Jianshu Chen and Ali H. Sayed.“Distributed Pareto Optimization via Diffusion Strategies”, IEEE Journal of Selected Topics in Signal Processing, Vol. 7, No. 2, April 2013, pp. 205-220.
+1. Ali H. Sayed, Sheng-Yuan Tu, Jianshu Chen, Xiaochuan Zhao, and Zaid J. Towfic, “Diffusion Strategies for Adaptation and Learning over Networks”, IEEE Signal Processing Magazine, Vol. 30, May 2013, pp. 155-171.
+1. Jun Wang, Jianshu Chen, Danijela Cabric,“Cramer-Rao Bounds for Joint RSS/DoA- Based Primary-User Localization in Cognitive Radio Networks”, IEEE Transactions on Wireless Communications, Vol. 12, No. 3, March 2013, pp.1363-1375.
+1. Zaid J. Towfic, Jianshu Chen, and Ali H. Sayed. “On distributed online classification in the midst of concept drifts”, Neurocomputing, vol. 112, pp.139–152, July 2013.
+1. Jianshu Chen and Ali H. Sayed. “Diffusion Adaptation Strategies for Distributed Optimization and Learning over Networks”, IEEE Transactions on Signal Processing, Vol. 60, No. 8, August 2012, pp.4289–4305.
 
 ## Workshop papers ##
 1. Shiyang Li, Jianshu Chen, and Dian Yu. “Teaching Pretrained Models with Commonsense Reasoning: A Preliminary KB-Based Approach”, NeurIPS-KR2ML Workshop (Knowledge Representation and Reasoning Meets Machine Learning), Vancouver, Canada, December, 2019. \[[paper](https://arxiv.org/pdf/1909.09743.pdf)\]
