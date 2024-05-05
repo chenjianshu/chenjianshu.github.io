@@ -7,6 +7,11 @@ author_profile: true
 
 ## Conference papers ##
 
+
+1. Rui Yang, Xiaoman Pan, Feng Luo, Shuang Qiu, Han Zhong, Dong Yu, Jianshu Chen, “Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment”, Proc. International Conference on Machine Learning (ICML), July 2024 [arXiv:2402.10207, February 2024].
+1. Xinran Zhao, Hongming Zhang, Xiaoman Pan, Wenlin Yao, Dong Yu, Tongshuang Wu, Jianshu Chen, “Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models”,  arXiv preprint [arXiv:2402.17124], February, 2024.
+1. Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacob, Dong Yu, “MMC: Advancing Multimodel Chart Understanding with Large-Scale Instruction Tuning”,  Proc. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, June, 2024 [arXiv:2311.10774, November, 2023].
+1. Xuansheng Wu, Wenlin Yao, Jianshu Chen, Xiaoman Pan, Xiaoyang Wang, Ninghao Liu, Dong Yu, “From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning”,  Proc. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, June, 2024 [arXiv:2310.00492, October 2023].
 1. Jiaao Chen, Xiaoman Pan, Kaiqiang Song, Dian Yu, Dong Yu, Jianshu Chen, “Skills-in-Context Prompting:  Unlocking Compositionality in Large Language Models”, , arXiv preprint [arXiv:2308.00304], August 2023.
 1. Neeraj Varshney, Wenlin Yao, Hongming Zhang, Jianshu Chen, Dong Yu, “A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation”, arXiv preprint  [arXiv:2307.03987], July 2023.
 1. Keming Lu, Xiaoman Pan, Kaiqiang Song, Hongming Zhang, Dong Yu, Jianshu Chen, “PIVOINE: Instruction Tuning for Open-world Information Extraction”, arXiv preprint [arXiv:2305.14898], May 2023.

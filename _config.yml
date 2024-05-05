@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianshu Chen"
 title_separator          : "-"
 name                     : &name "Jianshu Chen"
-description              : &description "Principal Researcher at Tencent AI Lab"
+description              : &description "Principal Scientist at Amazon"
 url                      : https://chenjianshu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenjianshu.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jianshu Chen"
   avatar           : "profile.png"
-  bio              : "Principal Researcher at Tencent AI Lab"
+  bio              : "Principal Researcher at Amazon"
   location         : "Bellevue, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=jQeFWdoAAAAJ&hl=en"
