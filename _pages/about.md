@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a principal scientist at Amazon, working on the development of next-generation foundational models for Amazon Stores businesses. Previously, I worked as a principal researcher at [Tencent AI Lab](https://ai.tencent.com/ailab/index.html), working on machine learning and natural language processing. Before that, I have been working at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/), Redmond, WA, focusing on deep learning and reinforcement learning. I completed my PhD in Electrical Engineering at [University of California, Los Angeles](http://www.ucla.edu/) (UCLA), in June 2014, where I worked in Adaptive Systems Laboratory (ASL), supervised by Prof. [Ali H. Sayed](https://asl.epfl.ch/biography/).
+I am currently a Principal Scientist at Amazon, where I spearhead the development of next-generation foundational models for Amazon Stores businesses. Prior to this role, I held the position of Principal Researcher at [Tencent AI Lab](https://ai.tencent.com/ailab/index.html), specializing in the advancement of large language models. Before that, I have been working at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/) in Redmond, WA, where I delved into deep learning, natural language processing, and reinforcement learning. I earned my PhD from [University of California, Los Angeles](http://www.ucla.edu/) (UCLA), in June 2014, focusing on distributed learning and control.
 
 
 Contact information
