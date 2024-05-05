@@ -30,8 +30,3 @@ Selected publications
 1. J. Chen, X. Pan, K. Song, D. Yu, D. Yu, **Jianshu Chen**, “Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models”, arXiv preprint [arXiv:2308.00304], August 2023.
 1. **Jianshu Chen**, “Learning Language Representations with Logical Inductive Bias”, Proc. International Conference on Learning Representations (ICLR), 2023.
 1. X. Pan, W. Yao, H. Zhang, D. Yu, D. Yu, **Jianshu Chen**, “Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models”, Proc. International Conference on Learning Representations (ICLR), 2023 (**Spotlight**).
-1. Y. Yang, W. Yao, H. Zhang, X. Wang, D. Yu, **Jianshu Chen**, “Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination”, Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022.
-1. W. Chen, H. Wang, **Jianshu Chen**, Y. Zhang, H. Wang, S. Li, X. Zhou, W. Y. Wang, “TabFact: A Large-scale Dataset for Table-based Fact Verification”, Proc. International Conference on Learning Representations (ICLR), 2020
-1. A. Liu, **Jianshu Chen**, M. Yu, Y. Zhai, X. Zhou, and J. Liu, “Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search”, Proc. International Conference on Learning Representations (ICLR), April 2020. (**Oral**)
-1. B. Dai, A. Shaw, L. Li, L. Xiao, N. He, Z. Liu, **Jianshu Chen**, L. Song, “SBEED Learning: Convergent Control with Nonlinear Function Approximation”, Proc. International Conference on Machine Learning (ICML), 2018.
-1. S. Du, **Jianshu Chen**, L. Li, L. Xiao, D. Zhou, ``Stochastic Variance Reduction Methods for Policy Evaluation'', Proc. International Conference on Machine Learning (ICML), 2017.
